@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola, soy Antonio Ruiz! 👋
 
-<!--
-**pepecode1/pepecode1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **Senior iOS Developer** con experiencia en el sector financiero, apasionado por crear aplicaciones móviles robustas y seguras con **Swift**. Me especializo en arquitecturas limpias, mejora continua, corrección de errores y desarrollo de nuevas funcionalidades. 
 
-Here are some ideas to get you started:
+🔍 **Lo que me motiva**: Resolver problemas complejos, optimizar flujos de trabajo y colaborar en equipos ágiles usando **Jira**, **Git** y **CI/CD**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Habilidades técnicas
+- **Lenguajes**: Swift, UIKit
+- **Herramientas**: Xcode, Git, Jira, CI/CD
+- **Metodologías**: Agile, Scrum
+- **Otros**: Seguridad en apps, testing QA, Chat y Agent Copilot
+
+### 🌟 Proyectos destacados
+- **[Hey Banco]**
+- **[Catálogos Pakar]**
+
+### 📫 Conecta conmigo
+- [LinkedIn](https://www.linkedin.com/in/pepecode)
+- [Email](mailto:pepecode1@gmail.com)
+
+💡 **Fun fact**: ¡Me encantan los puzzles y simplificar lo complejo, tanto en código como en la vida!
+
+> Actualmente estoy buscando **nuevos retos en desarrollo iOS**. ¡Hablemos si quieres colaborar o tienes una oportunidad interesante!
