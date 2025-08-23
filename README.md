@@ -10,9 +10,12 @@ Soy un **Senior iOS Developer** con experiencia en el sector financiero, apasion
 - **Metodologías**: Agile, Scrum
 - **Otros**: Seguridad en apps, testing QA, Chat y Agent Copilot
 
-### 🌟 Proyectos destacados
+### 🌟 Apps destacadas
 - **[Hey Banco]**
 - **[Catálogos Pakar]**
+
+### 🌟 Repos destacados
+- **[Puzzle To-Do List]**: SwiftUI app para lista de tareas. [https://github.com/pepecode1/PuzzleToDo]
 
 ### 📫 Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/pepecode)
