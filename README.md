@@ -20,10 +20,12 @@ Soy un **Senior iOS Developer** con experiencia en el sector financiero, apasion
 - **[GitHubProfile]**: App que muestra perfil y repos de un usuario. [https://github.com/pepecode1/GitHubProfile-SwiftUI]
 
 ### 📫 Conecta conmigo
-- [LinkedIn](https://www.linkedin.com/in/pepecode) <img width="20" height="20" alt="logo-linkedin" src="https://github.com/user-attachments/assets/aae132bc-c443-4594-9c73-5968ad34fa9d" />
-- [Email](mailto:pepecode1@gmail.com) <img width="20" height="20" alt="logo-email" src="https://github.com/user-attachments/assets/caa4d5d8-6b9d-45d6-90a3-5b6ca8c3e850" />
+- [LinkedIn](https://www.linkedin.com/in/pepecode) <img width="40" height="40" alt="logo-linkedin" src="https://github.com/user-attachments/assets/aae132bc-c443-4594-9c73-5968ad34fa9d" />
+- [Email](mailto:pepecode1@gmail.com) <img width="40" height="40" alt="logo-email" src="https://github.com/user-attachments/assets/caa4d5d8-6b9d-45d6-90a3-5b6ca8c3e850" />
 
 
 💡 **Fun fact**: ¡Me encantan los puzzles y simplificar lo complejo, tanto en código como en la vida!
 
 > Actualmente estoy buscando **nuevos retos en desarrollo iOS**. ¡Hablemos si quieres colaborar o tienes una oportunidad interesante!
+[Currículum](https://github.com/user-attachments/files/22060713/CV_JARS.pdf)
+
