@@ -17,7 +17,7 @@ Soy un **Senior iOS Developer** con experiencia en el sector financiero, apasion
 ### 🌟 Repos destacados
 - **[To-Do List]**: App con SwiftUI para lista de tareas. [https://github.com/pepecode1/todo-swiftui]
 - **[Puzzle To-Do List]**: App multi-plataforma hecha con Flutter para lista de tareas. [https://github.com/pepecode1/PuzzleToDo-flutter]
-- **[GitHubProfile]**: App que muestra perfil y repos de un usuario. [https://github.com/pepecode1/GitHubProfile-SwiftUI]
+- **[GitHubProfile]**: App con SwiftUI que muestra perfil y repos de un usuario, consume servicios con Combine. [https://github.com/pepecode1/GitHubProfile-SwiftUI]
 
 ### 📫 Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/pepecode) <img width="24" height="24" alt="logo-linkedin" src="https://github.com/user-attachments/assets/aae132bc-c443-4594-9c73-5968ad34fa9d"/>
