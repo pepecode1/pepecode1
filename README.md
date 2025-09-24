@@ -28,5 +28,6 @@ Soy un **Senior iOS Developer** con experiencia en el sector financiero, apasion
 💡 **Fun fact**: ¡Me encantan los puzzles y simplificar lo complejo, tanto en código como en la vida!
 
 > Actualmente estoy buscando **nuevos retos en desarrollo iOS**. ¡Hablemos si quieres colaborar o tienes una oportunidad interesante!
-[Currículum](https://github.com/user-attachments/files/22060713/CV_JARS.pdf)
+> [CV_iOS_JoseAntonioRuizSanchez.pdf](https://github.com/user-attachments/files/22519188/CV_iOS_JoseAntonioRuizSanchez.pdf)
+
 
