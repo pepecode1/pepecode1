@@ -2,7 +2,7 @@
 
 Soy un **Senior iOS Developer** con experiencia en el sector financiero, apasionado por crear aplicaciones móviles robustas y seguras con **Swift**. Me especializo en arquitecturas limpias, mejora continua, corrección de errores y desarrollo de nuevas funcionalidades. 
 
-🔍 **Lo que me motiva**: Resolver problemas complejos, optimizar flujos de trabajo y colaborar en equipos ágiles usando **Jira**, **Git** y **CI/CD**.
+🔍 **Lo que me motiva**: Resolver problemas complejos, optimizar flujos de trabajo y colaborar en equipos ágiles usando **Jira**, **Git**, **CI/CD** y **Slack**.
 
 ### 🛠 Habilidades técnicas
 - **Lenguajes**: Swift, UIKit
@@ -19,6 +19,7 @@ Soy un **Senior iOS Developer** con experiencia en el sector financiero, apasion
 - **[Puzzle To-Do List]**: App multi-plataforma hecha con Flutter para lista de tareas. [https://github.com/pepecode1/PuzzleToDo-flutter]
 - **[GitHubProfile]**: App con SwiftUI que muestra perfil y repos de un usuario, consume servicios con Combine. [https://github.com/pepecode1/GitHubProfile-SwiftUI]
 - **[TCAExample]**: Ejemplo de aplicación con SwiftUI y arquitectura TCA. [https://github.com/pepecode1/swiftui-exampleTCA]
+- **[CounterWatch]**: App con SwiftUI para AppleWatch, conteo de personas y gestos. [https://github.com/pepecode1/CounterWatch]
 
 ### 📫 Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/pepecode) <img width="24" height="24" alt="logo-linkedin" src="https://github.com/user-attachments/assets/aae132bc-c443-4594-9c73-5968ad34fa9d"/>
