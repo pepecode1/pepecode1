@@ -1,6 +1,6 @@
 # ¡Hola, soy Antonio Ruiz! 👋
 
-Soy un **Senior iOS Developer** con experiencia en el sector financiero, apasionado por crear aplicaciones móviles robustas y seguras con **Swift**. Me especializo en arquitecturas limpias, mejora continua, corrección de errores y desarrollo de nuevas funcionalidades. 
+Soy un **iOS Engineer** con experiencia en el sector financiero, apasionado por crear aplicaciones móviles robustas y seguras con **Swift**. Me especializo en arquitecturas limpias, mejora continua, corrección de errores y desarrollo de nuevas funcionalidades. 
 
 🔍 **Lo que me motiva**: Resolver problemas complejos, optimizar flujos de trabajo y colaborar en equipos ágiles usando **Jira**, **Git**, **CI/CD** y **Slack**.
 
