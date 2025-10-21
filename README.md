@@ -29,6 +29,4 @@ Soy un **iOS Engineer** con experiencia en el sector financiero, apasionado por 
 💡 **Fun fact**: ¡Me encantan los puzzles y simplificar lo complejo, tanto en código como en la vida!
 
 > Actualmente estoy buscando **nuevos retos en desarrollo iOS**. ¡Hablemos si quieres colaborar o tienes una oportunidad interesante!
-> [CV_iOS_JoseAntonioRuizSanchez.pdf](https://github.com/user-attachments/files/22519188/CV_iOS_JoseAntonioRuizSanchez.pdf)
-
-
+> [CV_iOS_JoseAntonioRuizSanchez.pdf](https://github.com/user-attachments/files/23030485/CV_iOS_JoseAntonioRuizSanchez.pdf)
